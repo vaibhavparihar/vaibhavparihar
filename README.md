@@ -57,18 +57,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavparihar)
 
 ---
-
-## 📊 GitHub Stats
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavparihar0&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavparihar0&layout=compact&theme=dark)
-
----
-
-## 📌 Projects
-
-- 🚀 **LLM Fine-Tuning Framework** - A toolkit to fine-tune large-scale language models for domain-specific applications.
-- 🤖 **AI-Powered Chatbot** - Built an intelligent chatbot using NLP techniques and deep learning models.
-- 📊 **Predictive Analytics Dashboard** - Developed an AI-driven dashboard for data analysis and forecasting.
-
----
