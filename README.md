@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Fine-tuning Large Language Models (LLMs)**
 - 👯 I’m looking to collaborate on **AI-driven projects and business solutions**
 - 📫 How to reach me **vaibhavparihar0@gmail.com**
+- 🌐 Check out my Portfolio **https://vaibhavparihar.github.io/**
 - ⚡ Fun fact **I told my AI to optimize itself… now it refuses to run until I bring it coffee. ☕🤖**
 
 
