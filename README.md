@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I told my AI to optimize itself… now it refuses to run until I bring it coffee. ☕🤖**
 
 
-## 🌍 Connect with me
+# 🌍 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-parihar694/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavparihar)
